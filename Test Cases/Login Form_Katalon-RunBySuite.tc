@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Form_Katalon-RunBySuite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d712ac1-3323-4f9e-950f-5427ff1eb588</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('New Test Data 4 _ Login')</defaultValue>
+      <description></description>
+      <id>588d5b11-3577-4025-9328-5fb68f5376bb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('New Test Data 4 _ Login')</defaultValue>
+      <description></description>
+      <id>be721434-b2fa-4bdb-9b41-9a4ef15aecce</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CheckmailBtn</name>
+   <tag></tag>
+   <elementGuidId>04850495-8b8e-4f03-87f3-745cc5c83e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1F_ISyE6v99kH0VgZsdnNM _1h_n2UWDRfhXP09khoRYwF InactiveButton-0-179 InactiveButton-0-75 AT_M-3y2cwqSpl-HKa0XE _1nGRJ_-j3acZFqrvBJiHBi</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>متابعة</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;xeN0kdsLg9h3ooNcc_d5m&quot;]/div[1]/div[@class=&quot;_7enAyYKFAHr3gKkOdnlp_&quot;]/div[@class=&quot;themeWithBgImage-0-119 themeWithBgImage-0-15 RsPzdo6jY-WbSphuF3M76&quot;]/div[1]/div[@class=&quot;WpWwMDnjsk8ZAm-Jua5l-&quot;]/div[@class=&quot;_1KCl1TNt_PhBhMv0MAIWol fullscreen-0-121 fullscreen-0-17&quot;]/div[@class=&quot;formContainer-0-124 formContainer-0-20&quot;]/form[@class=&quot;_3fMpcTsiydOsJsHJc57roT form-0-122 form-0-18 O7ADD6GfWAGrkejfiL6G7 _3vu-mf2CZgqeiZ2UtZ8oOM _3A3IGgR3eCgQoG3P6ZT6qf&quot;]/button[@class=&quot;_1F_ISyE6v99kH0VgZsdnNM _1h_n2UWDRfhXP09khoRYwF InactiveButton-0-179 InactiveButton-0-75 AT_M-3y2cwqSpl-HKa0XE _1nGRJ_-j3acZFqrvBJiHBi&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainer']/div[3]/div/div[2]/div/div/div/div/div[2]/form/button</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='أدخل عنوان البريد الإلكتروني للمتابعة'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حساب شاهد'])[1]/following::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الدخول أو إنشاء حساب عبر فيسبوك'])[1]/preceding::button[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+   </webElementXpaths>
+</WebElementEntity>
