@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>LoginLink</name>
+   <name>LoginLink2</name>
    <tag></tag>
-   <elementGuidId>52fa1d62-4e14-4580-b09e-86d5956e9740</elementGuidId>
+   <elementGuidId>7b28125d-62f9-4dc8-b901-2706713fb77d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mainContainer']/div[3]/header/div/div[3]/span/div/div[2]/div[2]/div/a</value>
+         <value>//div[@id='mainContainer']/div[3]/header/div/div[2]/span/div/div[2]/div[2]/div/a/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,14 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/ar/login</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,48 +31,48 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;xeN0kdsLg9h3ooNcc_d5m&quot;]/header[@class=&quot;_321IHS-_KruVv3UhlqNmy3 _2Ot59GewVsrIG3WBm927hF&quot;]/div[@class=&quot;_2bIdoX5jLyhxWbfE6FnmoO&quot;]/div[@class=&quot;_3mUN66pKTm--rxYiLr5MTO&quot;]/span[@class=&quot;_3Ge2dzNUFFjPo9vX6_sNUa ICwrg1u9zHQVMdEk1K4T5&quot;]/div[@class=&quot;_3J54TvZLp5-KkbZY9N-iT6&quot;]/div[@class=&quot;_28fEORBLHgd1MqP85PlRFU&quot;]/div[@class=&quot;_1XLNLE8SstnB4AsQTYPUi5&quot;]/div[@class=&quot;_1ZBFue7VModJTCOy5_yAOu true&quot;]/a[1]</value>
+      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;xeN0kdsLg9h3ooNcc_d5m&quot;]/header[@class=&quot;_321IHS-_KruVv3UhlqNmy3 _2Ot59GewVsrIG3WBm927hF&quot;]/div[@class=&quot;_2bIdoX5jLyhxWbfE6FnmoO&quot;]/div[@class=&quot;_3mUN66pKTm--rxYiLr5MTO&quot;]/span[@class=&quot;_3Ge2dzNUFFjPo9vX6_sNUa ICwrg1u9zHQVMdEk1K4T5&quot;]/div[@class=&quot;_3J54TvZLp5-KkbZY9N-iT6&quot;]/div[@class=&quot;_28fEORBLHgd1MqP85PlRFU&quot;]/div[@class=&quot;_1XLNLE8SstnB4AsQTYPUi5&quot;]/div[@class=&quot;_1ZBFue7VModJTCOy5_yAOu true&quot;]/a[1]/span[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mainContainer']/div[3]/header/div/div[3]/span/div/div[2]/div[2]/div/a</value>
+      <value>//div[@id='mainContainer']/div[3]/header/div/div[2]/span/div/div[2]/div[2]/div/a/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='مباشر'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='مباشر'])[1]/following::span[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='تصفح'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تصفح'])[1]/following::span[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='جرّب شاهد VIP'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='جرّب شاهد VIP'])[1]/preceding::span[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/ar/login')]</value>
+      <value>//*/text()[normalize-space(.)='الدخول']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/a</value>
+      <value>//div[2]/div[2]/div/a/span</value>
    </webElementXpaths>
 </WebElementEntity>

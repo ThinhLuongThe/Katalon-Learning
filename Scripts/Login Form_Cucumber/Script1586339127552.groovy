@@ -14,15 +14,11 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-
 import static java.lang.Math.*
 
-	
 //CucumberKW.runFeatureFile('Include/features/New Feature File 4 _ Login.feature')
 //WebUI.closeBrowser()
-
-println "Start"
-
+println('Start')
 
 ////Sample 1
 //def letters = [1, 2, 3, 'a', 'b']
@@ -91,19 +87,5 @@ println "Start"
 //println 'Hello'
 //int power(int n) { 2**n }
 //println "2^6==${power(6)}"
+println('End')
 
-class Outer2 {
-	private String privateStr = 'some string'
-
-	def startThread() {
-	   new Thread(new Inner2()).start()
-	}
-
-	class Inner2 implements Runnable {
-		void run() {
-			println "${privateStr}."
-		}
-	}
-}
-
-println 'End'

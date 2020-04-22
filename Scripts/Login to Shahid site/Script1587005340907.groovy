@@ -14,4 +14,9 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
+import groovy.ui.Console as Console
+
+CucumberKW.runFeatureFileWithTags('Include/features/Login to Shahid_1.feature', '@Test1')
+//CucumberKW.runFeatureFileWithTags('Include/features/Login to Shahid_1.feature', "@Test2, @Test3, @Test1")
+WebUI.closeBrowser()
 

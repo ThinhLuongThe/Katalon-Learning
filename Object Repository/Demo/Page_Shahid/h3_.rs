@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>LoginLink</name>
+   <name>h3_</name>
    <tag></tag>
-   <elementGuidId>52fa1d62-4e14-4580-b09e-86d5956e9740</elementGuidId>
+   <elementGuidId>f94d56d3-947d-4eec-a19d-2d1d3411507c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='mainContainer']/div[3]/header/div/div[3]/span/div/div[2]/div[2]/div/a</value>
+         <value>//div[@id='htmlContaner']/section/div/div[3]/div/h3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -17,69 +17,62 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>/ar/login</value>
+      <value>h3</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>الدخول</value>
+      <value>استمتع بأكبر مكتبة للمسلسلات و البرامج و الأفلام با لعربي في العا لم..</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;mainContainer&quot;)/div[@class=&quot;xeN0kdsLg9h3ooNcc_d5m&quot;]/header[@class=&quot;_321IHS-_KruVv3UhlqNmy3 _2Ot59GewVsrIG3WBm927hF&quot;]/div[@class=&quot;_2bIdoX5jLyhxWbfE6FnmoO&quot;]/div[@class=&quot;_3mUN66pKTm--rxYiLr5MTO&quot;]/span[@class=&quot;_3Ge2dzNUFFjPo9vX6_sNUa ICwrg1u9zHQVMdEk1K4T5&quot;]/div[@class=&quot;_3J54TvZLp5-KkbZY9N-iT6&quot;]/div[@class=&quot;_28fEORBLHgd1MqP85PlRFU&quot;]/div[@class=&quot;_1XLNLE8SstnB4AsQTYPUi5&quot;]/div[@class=&quot;_1ZBFue7VModJTCOy5_yAOu true&quot;]/a[1]</value>
+      <value>id(&quot;htmlContaner&quot;)/section[@class=&quot;promo-section main-sectoin promo-background&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;subscription-text text-center&quot;]/h3[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='mainContainer']/div[3]/header/div/div[3]/span/div/div[2]/div[2]/div/a</value>
+      <value>//div[@id='htmlContaner']/section/div/div[3]/div/h3</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='مباشر'])[1]/following::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='برامج حصرية'])[1]/following::h3[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='تصفح'])[1]/following::a[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLUS'])[1]/following::h3[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='جرّب شاهد VIP'])[1]/preceding::a[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLUS'])[2]/preceding::h3[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/ar/login')]</value>
+      <value>//*/text()[normalize-space(.)='استمتع بأكبر مكتبة للمسلسلات و البرامج و الأفلام با لعربي في العا لم..']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/a</value>
+      <value>//h3</value>
    </webElementXpaths>
 </WebElementEntity>

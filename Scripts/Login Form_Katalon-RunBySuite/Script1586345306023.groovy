@@ -29,5 +29,6 @@ WebUI.setText(findTestObject('Object Repository/Page_Login  Sign Up Forms/Login 
 WebUI.click(findTestObject('Object Repository/Page_Login  Sign Up Forms/Login Forms/input'))
 
 WebUI.getWindowTitle().compareTo('My Account :  Application Testing  Online')
+
 WebUI.closeBrowser()
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ScriptingCase</name>
+   <name>ScriptingCase_Mobile</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>15869405-6303-42ca-8fb7-e1e89f36008b</testCaseGuid>
